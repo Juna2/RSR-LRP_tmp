@@ -1,0 +1,1 @@
+python3 main.py --lr 0.0001 --lambda_for_final 1 --gpu 1 --threshold 0.25 --train_func train --epochs 50
